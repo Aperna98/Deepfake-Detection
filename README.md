@@ -1,2 +1,1 @@
-# Deepfake-Detection
-Deepfake Detection
+# DeepFake_Detection
